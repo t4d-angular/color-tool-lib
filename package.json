@@ -1,0 +1,21 @@
+{
+  "name": "color-tool-lib",
+  "version": "0.0.1",
+  "peerDependencies": {
+    "@angular/common": "^9.1.11",
+    "@angular/core": "^9.1.11"
+  },
+  "dependencies": {
+    "tslib": "^1.10.0"
+  },
+  "main": "bundles/color-tool-lib.umd.js",
+  "module": "fesm5/color-tool-lib.js",
+  "es2015": "fesm2015/color-tool-lib.js",
+  "esm5": "esm5/color-tool-lib.js",
+  "esm2015": "esm2015/color-tool-lib.js",
+  "fesm5": "fesm5/color-tool-lib.js",
+  "fesm2015": "fesm2015/color-tool-lib.js",
+  "typings": "color-tool-lib.d.ts",
+  "metadata": "color-tool-lib.metadata.json",
+  "sideEffects": false
+}
